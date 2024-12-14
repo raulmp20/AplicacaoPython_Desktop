@@ -24,7 +24,7 @@ Este projeto é uma aplicação desktop criada com **Tkinter** para a interface 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/SEU-USUARIO/desktop-app.git
+   git clone https://github.com/raulmp20/AplicacaoPython_Desktop.git
    ```
 2. Instale as dependências (caso ainda não tenha o Pillow):
    ```bash
